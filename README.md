@@ -4,7 +4,7 @@ Micro-service used to get email (or SMS) notifications when vaccine slots opens 
 ## Prerequisite
 1] Need AWS account. Amazon has provide free evaluation period, so if you don't have AWS account, then you can create it without any charges.
 
-2] Create one SNS Topic in any region (say US-East-1) and create one email subsription on that topic with your preferred email id.
+2] Create one SNS Topic in any region (say US-East-1) and create one email subscription on that topic with your preferred email id.
 
 3] You need to confirm the SNS email subscription, by checking your email and clicking on the link sent by AWS on creating subscription on topic in step 2.
 
